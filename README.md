@@ -1,4 +1,4 @@
-# Driving Car - No Library 🚗
+# Road-Drive-Game - No Library 🚗
 
 This project is a simple driving car simulation without using any libraries. It utilizes HTML5 canvas and vanilla JavaScript for the logic.
 
@@ -20,3 +20,18 @@ This project is a simple driving car simulation without using any libraries. It 
       - `car.js`: Contains the code for the car's behavior.
       - `main.js`: Possibly serves as the main script coordinating the overall functionality.
 
+## How to Run the Project 🏃‍♂️
+
+To run the project locally, follow these steps:
+
+1. Clone the repository to your local machine:
+https://github.com/FelixAshong/Road-Drive-Game---JS.git
+
+
+2. Navigate to the project directory:
+cd Road-Drive-Game
+
+
+3. Open the `index.html` file in your web browser.
+
+4. Interact with the car simulation using the provided controls.
